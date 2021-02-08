@@ -23,3 +23,11 @@
          src="http://music.163.com/outchain/player?type=2&id=425295760&auto=1&height=66">
      </iframe>
 </div>
+
+ <iframe  
+ height=850 
+ width=90% 
+ src="http://mctool.wangmingchang.com/index/jspay/dashang"  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
