@@ -4,9 +4,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sergeyshaykhullin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-- 😄 Nice to meet you guys. I’m an Independent game developer and my name is AlexTang.
+- 😄 Nice to meet you guys. 
+- 🚀 I’m an Independent game developer
 - 🚢 Open source contributor
-- 💬 Ask me about Unity or Arts and also Technical art
+- 💬 Learned about Unity or Technical art
 - 👑 HotChocolate, MassTransit and Quartz
 - 📫 How to reach me: WechatID tx574809918
 - 😄 Have a good time!
