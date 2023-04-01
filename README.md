@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hi 👋, Alex here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ALEXTANGXIAO&count_private=true&show_icons=true&hide_title=true&hide=stars" />
@@ -17,6 +17,16 @@
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=ALEXTANGXIAO&theme=flat&no-frame=true&margin-w=30" />
 </div>
+
+<p align="center">
+  <a href="#">
+    <img width="400" align="top" src="github-metrics-left.svg" />
+  </a>
+  &emsp;
+  <a href="#">
+    <img width="400" align="top" src="github-metrics-right.svg" />
+  </a>
+</p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXTANGXIAO&theme=flat&no-frame=true&include_all_commits=true&show_icons=true" /> -->
 
