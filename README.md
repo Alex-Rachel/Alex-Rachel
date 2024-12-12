@@ -2,7 +2,7 @@
    <h1>Hi 👋. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ALEXTANGXIAO&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alex-Rachel&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 - 😄 Nice to meet you guys. 
 - 🚀 I’m an game developer
@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=ALEXTANGXIAO&theme=flat&no-frame=true&margin-w=30" />
+   <img src="https://github-profile-trophy.vercel.app/?username=Alex-Rachel&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
 <p align="center">
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXTANGXIAO&theme=flat&no-frame=true&include_all_commits=true&show_icons=true" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Rachel&theme=flat&no-frame=true&include_all_commits=true&show_icons=true" /> -->
 
 
 <!-- <div align="center">
